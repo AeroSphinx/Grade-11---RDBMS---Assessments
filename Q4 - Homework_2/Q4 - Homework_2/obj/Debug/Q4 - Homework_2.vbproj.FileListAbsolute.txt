@@ -1,0 +1,7 @@
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Q4 - Homework_2\Q4 - Homework_2\obj\Debug\Q4 - Homework_2.vbprojResolveAssemblyReference.cache
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Q4 - Homework_2\Q4 - Homework_2\bin\Debug\Q4 - Homework_2.exe
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Q4 - Homework_2\Q4 - Homework_2\bin\Debug\Q4 - Homework_2.pdb
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Q4 - Homework_2\Q4 - Homework_2\obj\Debug\Q4 - Homework_2.exe
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Q4 - Homework_2\Q4 - Homework_2\obj\Debug\Q4 - Homework_2.pdb
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Q4 - Homework_2\Q4 - Homework_2\obj\Debug\Q4___Homework_2.MainForm.resources
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Q4 - Homework_2\Q4 - Homework_2\obj\Debug\Q4 - Homework_2.vbproj.GenerateResource.Cache
