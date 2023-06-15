@@ -1,0 +1,7 @@
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Handson_2\Handson_2\bin\Debug\Handson_2.exe
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Handson_2\Handson_2\bin\Debug\Handson_2.pdb
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Handson_2\Handson_2\obj\Debug\Handson_2.vbprojResolveAssemblyReference.cache
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Handson_2\Handson_2\obj\Debug\Handson_2.MainForm.resources
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Handson_2\Handson_2\obj\Debug\Handson_2.vbproj.GenerateResource.Cache
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Handson_2\Handson_2\obj\Debug\Handson_2.exe
+C:\Users\Twinkle\OneDrive - lyceum of alabang\Documents\SharpDevelop Projects\Handson_2\Handson_2\obj\Debug\Handson_2.pdb
